@@ -24,9 +24,14 @@
   text-align: right;
 }
 
+/* grid-template determines how many rows and columns, and size.
+unit fr stands for fractional unit, and repeating "1fr" 5 times will distribute equally. */
+
 .butons {
   display: grid;
   grid-gap: 20px;
+  grid-template-rows: repeat(5 1fr);
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .bottom {

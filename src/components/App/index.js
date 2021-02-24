@@ -1,5 +1,6 @@
 import React from 'react';
 
+import Button from "../Button";
 import './App.css';
 
 const App = () => {
@@ -9,6 +10,8 @@ const App = () => {
             <div className="display">0</div>
             <div className="buttons">AC</div>
             <div className="bottom">-</div>
+                <Button/>
+                <div className="bottom"></div>
         </div>
     );
 };
