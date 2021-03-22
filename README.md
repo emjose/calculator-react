@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://emjose.github.io/">![React Calculator](Assets/preview-019-react-calculator.png)</a> 
+<a href="https://emjose.github.io/calculator-react/">![React Calculator](Assets/preview-019-react-calculator.png)</a> 
 
 #
 
@@ -41,7 +41,19 @@
 
 <a href=#table-of-contents>![Installation](Assets/inter-installation.png)</a>
 
-<a href=#installation>![under construction](Assets/lorem-text.png)</a>
+#### Git clone and cd into the repo folder:
+``` 
+git clone git@github.com:emjose/calculator-react.git && cd calculator-react 
+```
+#### Install dependencies:
+```
+npm install
+```
+#### Run the command:
+```
+npm start
+```
+#### Once running, the calculator is best viewed at 67% or smaller in the browser.
 
 #
 
@@ -49,7 +61,7 @@
 
 <a href=#table-of-contents>![Demos](Assets/inter-demo.png)</a>  
 
-<a href=#demo>![under construction](Assets/lorem-text.png)</a>
+<a href="https://emjose.github.io/calculator-react/">![under construction](Assets/lorem-demo.png)</a>
 
 #
 
