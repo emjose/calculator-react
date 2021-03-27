@@ -34,7 +34,11 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+- I looked into three different ways of coding a calculator.
+
+- I also read great blogs about calculator design and calculator UI.
+  
+- This calculator was made with <a href="https://reactjs.org/">React</a>. See the <a href="https://github.com/emjose/calculator-vuejs/#header">Vue.js</a> and <a href="https://github.com/emjose/calculator-tilt/#header">Vanilla-tilt.js</a> versions.
 
 #
 
@@ -62,7 +66,7 @@ npm start
 
 <a href="https://emjose.github.io/calculator-react/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/calculator-react/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/calculator-react/">![Live Site](Assets/019-react.gif)</a>
 
 #
 
@@ -70,7 +74,19 @@ npm start
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Canva Stock Photos](https://www.canva.com/photos/)
+
+- #### [Unsplash Stock Photos](https://unsplash.com/)
+
+- #### [React Calculator Tutorial](https://youtu.be/wOENJWPu23U)
+
+- #### [Vue.js Calculator Tutorial](https://youtu.be/tsLVqYsL4Fo)
+
+- #### [Vanilla-tilt.js Calculator Tutorial](https://youtu.be/NhcZh8Bwr30)
+
+- #### [What I learned designing a calculator UI](https://medium.com/@kmerchant/what-i-learned-designing-a-calculator-ui-9358a3112445)
+  
+- #### [Calcy | The new-age calculator for 21st-century users](https://uxplanet.org/calcy-the-new-age-calculator-a-design-case-study-11f49559892b)
 
 #
 
