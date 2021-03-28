@@ -34,6 +34,7 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
+### Day 19: February 27, 2021
 - I looked into three different ways of coding a calculator.
 
 - I also read great blogs about calculator design and calculator UI.
