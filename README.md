@@ -49,19 +49,19 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/calculator-react.git && cd calculator-react
 ```
 
 #### Install dependencies:
 
-```
+```console
 npm install
 ```
 
 #### Run the command:
 
-```
+```console
 npm start
 ```
 
