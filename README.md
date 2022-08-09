@@ -47,25 +47,25 @@
 
 <a href=#installation>![Installation](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389842/Readme%20Headers/inter-installation_j9ixlq.png)</a>
 
-#### Git clone and cd into the repo folder:
+#### 1. Git clone and cd into the repo folder:
 
 ```console
 git clone git@github.com:emjose/calculator-react.git && cd calculator-react
 ```
 
-#### Install dependencies:
+#### 2. Install dependencies:
 
 ```console
 npm install
 ```
 
-#### Run the command:
+#### 3. Run the command:
 
 ```console
 npm start
 ```
 
-#### Once running, the calculator is best viewed at 67% or smaller in the browser.
+#### 4. Once running, the calculator is best viewed at 67% or smaller in the browser.
 
 #
 
