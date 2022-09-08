@@ -33,7 +33,7 @@
 	"background_color": "#fbf5f5",
 	"display": "standalone",
 	"lang": "en-US",
-	"id": "https://****URL****.vercel.app/",
+	"id": "https://emjose.github.io/calculator-react/",
 	"start_url": "/",
 	"scope": "/",
 	"description": "A digital calculator."
