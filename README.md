@@ -28,6 +28,8 @@
 -   [Resources](#resources)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -39,7 +41,10 @@
 -   I looked into three different ways of coding a calculator.
 
 -   I also read great blogs about calculator design and calculator UI.
+
 -   This calculator was made with <a href="https://reactjs.org/">React</a>. See the <a href="https://github.com/emjose/calculator-vuejs/#header">Vue.js</a> and <a href="https://github.com/emjose/calculator-tilt/#header">Vanilla-tilt.js</a> versions.
+
+<br>
 
 #
 
@@ -67,6 +72,8 @@ npm start
 
 #### 4. Once running, the calculator is best viewed at 67% or smaller in the browser.
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -74,6 +81,10 @@ npm start
 <a href="https://emjose.github.io/calculator-react/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/calculator-react/">![Live Site](Assets/019-react.gif)</a>
+
+• The **[React Calculator](https://emjose.github.io/calculator-react/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+• The **[React Calculator's](https://emjose.github.io/calculator-react/)** interface is modeled after the iPhone native calculator.
 
 #
 
@@ -95,6 +106,8 @@ npm start
 -   #### [Calcy | The new-age calculator for 21st-century users](https://uxplanet.org/calcy-the-new-age-calculator-a-design-case-study-11f49559892b)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
