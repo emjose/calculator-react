@@ -86,6 +86,8 @@ npm start
 
 • The **[React Calculator's](https://emjose.github.io/calculator-react/)** interface is modeled after the iPhone native calculator.
 
+<br>
+
 #
 
 <p id="resources"><p>

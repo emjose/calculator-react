@@ -34,7 +34,7 @@
 	"display": "standalone",
 	"lang": "en-US",
 	"id": "https://emjose.github.io/calculator-react/",
-	"start_url": "/",
-	"scope": "/",
+	"start_url": "/calculator-react/",
+	"scope": "/calculator-react/",
 	"description": "A digital calculator."
 }
