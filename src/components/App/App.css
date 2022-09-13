@@ -1,14 +1,14 @@
 .App {
-	background: black;
+	background: var(--black);
 	border-radius: 50px;
-	color: white;
+	color: var(--white);
 	height: 1218px;
 	padding: 20px;
 	position: relative;
 	width: 563px;
 	/* center the div */
 	margin: 0 auto;
-	margin-top: 10%;
+	margin-top: 5%;
 }
 
 .top {
@@ -26,6 +26,7 @@
 	font-weight: 300;
 	margin-bottom: 20px;
 	text-align: right;
+	overflow-x: auto;
 }
 
 .buttons {
@@ -39,7 +40,7 @@
 	position: absolute;
 	width: 200px;
 	height: 5px;
-	background: white;
+	background: var(--white);
 	bottom: 10px;
 	left: 50%;
 	border-radius: 4px;

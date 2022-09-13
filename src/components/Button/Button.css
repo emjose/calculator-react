@@ -1,6 +1,6 @@
 .Button {
 	align-items: center;
-	background: #333;
+	background: var(--gray);
 	border-radius: 50%;
 	cursor: pointer;
 	display: flex;
@@ -13,8 +13,7 @@
 
 .Button:active,
 .Button:focus {
-	/* filter: brightness(150%); */
-	outline: 5px solid white;
+	outline: 5px solid var(--white);
 }
 
 .Button.zero {
@@ -27,10 +26,10 @@
 }
 
 .Button.function {
-	color: black;
-	background: #a5a5a5;
+	color: var(--black);
+	background: var(--light-gray);
 }
 
 .Button.operator {
-	background: #ff9b04;
+	background: var(--orange);
 }
