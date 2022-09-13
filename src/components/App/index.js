@@ -146,9 +146,6 @@ const App = () => {
 			<GithubCorner />
 			<div className="App">
 				<div className="top">
-					<div className="menu">
-						<img src={menu} alt="menu" />
-					</div>
 					<div className="time">
 						{time.getHours().toString().padStart(2, "0")}:{time.getMinutes().toString().padStart(2, "0")}
 					</div>
